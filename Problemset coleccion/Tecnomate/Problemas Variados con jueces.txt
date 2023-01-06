@@ -1,0 +1,67 @@
+Tecnomate 2016
+Ejercicio 1: Salto de Rana https://www.beecrowd.com.br/judge/es/problems/view/1961
+Ejercicio 2: Flowers Flourish From France https://www.beecrowd.com.br/judge/es/problems/view/1140
+Ejercicio 3: Juego De Estudiante https://www.beecrowd.com.br/judge/es/problems/view/2116
+Ejercicio 4: Sudoku https://www.beecrowd.com.br/judge/es/problems/view/1383
+Ejercicio 5: Coleccion de Pomekons https://www.beecrowd.com.br/judge/es/problems/view/2174
+Ejercicio 6: Triangulo Trionamiales https://www.beecrowd.com.br/judge/es/problems/view/1795
+Ejercicio 7: Campo de Lombrices -
+Ejercicio 8: Prant y su indecision https://www.beecrowd.com.br/judge/es/problems/view/2064
+Ejercicio 9 Tornado https://www.beecrowd.com.br/judge/es/problems/view/1266
+Ejercicio 10: Fila de Supermercado https://www.beecrowd.com.br/judge/es/problems/view/2065
+Ejercicio 11: Escultura Laser https://www.beecrowd.com.br/judge/es/problems/view/1107
+
+Tecnomate 2017
+Ejercicio 1 Maquina de Café https://www.beecrowd.com.br/judge/es/problems/view/2670
+Ejercicio 2 Palindromo Real https://www.beecrowd.com.br/judge/es/problems/view/1872
+Ejercicio 3 Ayuda a Girafales! https://www.beecrowd.com.br/judge/es/problems/view/1911
+Ejercicio 4 Imagen https://www.beecrowd.com.br/judge/es/problems/view/1516
+Ejercicio 5 Intercambio de tren https://www.beecrowd.com.br/judge/es/problems/view/1162
+Ejercicio 6 Cazando Digglets https://www.beecrowd.com.br/judge/es/problems/view/2063
+Ejercicio 7 Ordenar!Ordenar!Ordenar! https://www.beecrowd.com.br/judge/es/problems/view/1252
+Ejercicio 8 El mayor numero "un digito" https://www.beecrowd.com.br/judge/es/problems/view/1867
+Ejercicio 9 Super Primos: Ataquen! https://www.beecrowd.com.br/judge/es/problems/view/2674
+Ejercicio 10 Construyendo Paredes https://www.beecrowd.com.br/judge/es/problems/view/2650
+
+Tecnomate 2019
+Ejercicio 1: Plantación de Palmeras de Azaí https://www.beecrowd.com.br/judge/es/problems/view/2948
+Ejercicio 2: Cuánto Locro https://www.beecrowd.com.br/judge/es/problems/view/2936
+Ejercicio 3: Emergencia en Manaos https://www.beecrowd.com.br/judge/es/problems/view/2944
+Ejercicio 4: Globo++ https://www.beecrowd.com.br/judge/es/problems/view/2840
+Ejercicio 5: Caballos Otra vez https://www.beecrowd.com.br/judge/es/problems/view/2808
+Ejercicio 6: Rangel y el juego del Vector https://www.beecrowd.com.br/judge/es/problems/view/2848
+Ejercicio 7: Dados https://www.beecrowd.com.br/judge/es/problems/view/2790
+Ejercicio 8: Papel Tijeras Love you https://www.beecrowd.com.br/judge/es/problems/view/2847
+Ejercicio 9: Respuestas correctas https://www.beecrowd.com.br/judge/es/problems/view/2947
+Ejercicio 10: La Zancuda https://www.beecrowd.com.br/judge/es/problems/view/2938
+Ejercicio 11: Montañas mas claras https://www.beecrowd.com.br/judge/es/problems/view/2794
+Ejercicio 12: Escritura rápida, la competencia https://www.beecrowd.com.br/judge/es/problems/view/2843
+
+Tecnomate 2021
+Ejercicio 1: El viaje de Marianito https://omegaup.com/arena/problem/El-Viaje-de-Marianito/
+Ejercicio 2: Desenmascarando Claves https://omegaup.com/arena/problem/Desenmascarando-Claves/
+Ejercicio 3: Cancionero Desordenado https://omegaup.com/arena/problem/Cancioneros-Desordenados/
+Ejercicio 4: Tecnomate y Pizzas: https://omegaup.com/problem/?query=TecnoMate+y+Pizzas
+Ejercicio 5: Concentricidad y Paridad: https://omegaup.com/problem/?query=Concentricidad+y+Paridad
+Ejercicio 6: Alfajores Santafesinos https://omegaup.com/arena/problem/Alfajores-Santafesinos/
+Ejercicio 7: Apostando con el Abuelo Rodo: https://omegaup.com/arena/problem/Apostando-con-el-abuelo-Rodo/
+Ejercicio 8: Encuentro de Amigos Post Pandemia: https://omegaup.com/arena/problem/Encuentro-de-amigos-post-pandemi/
+Ejercicio 9: Escalera de Ceros: https://omegaup.com/arena/problem/Escalera-de-Ceros/
+Ejercicio 10: Karate en Tecnomate: https://omegaup.com/arena/problem/Karate-en-TecnoMate/
+Ejercicio 11: Amargo y Retruco: https://omegaup.com/arena/problem/Amargo-y-Retruco/
+
+
+
+
+
+https://www.urionlinejudge.com.br/judge/es/problems/view/1872
+https://www.urionlinejudge.com.br/judge/es/problems/view/1911
+https://www.urionlinejudge.com.br/judge/es/problems/view/2938
+https://www.urionlinejudge.com.br/judge/es/problems/view/1162
+https://www.urionlinejudge.com.br/judge/en/problems/view/2063
+https://www.urionlinejudge.com.br/judge/es/problems/view/1252
+https://www.urionlinejudge.com.br/judge/en/problems/view/1867
+https://www.urionlinejudge.com.br/judge/es/problems/view/2794
+https://www.urionlinejudge.com.br/judge/es/problems/view/2936
+https://www.urionlinejudge.com.br/judge/es/problems/view/2840
+https://www.urionlinejudge.com.br/judge/es/problems/view/2808
